@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viZinScorp
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently пытаюсь выучить Python, в свободное время
+- 🌱 Now I'm trying to learn Python in my free time
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
